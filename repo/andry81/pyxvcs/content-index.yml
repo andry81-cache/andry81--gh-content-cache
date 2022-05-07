@@ -3,7 +3,7 @@
 
 content-index:
 
-  timestamp: '2022-05-07T14:34:17Z'
+  timestamp: '2022-05-07T19:11:34Z'
 
   entries:
 
@@ -15,23 +15,23 @@ content-index:
 
             - file: all.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=views|all&query=count&url=https://github.com/andry81-stats/pyxvcs--gh-stats/raw/master/traffic/views/latest-accum.json?raw=True&logo=github
-              md5-hash: acdc27d3bac7170f0d0a85c8fdb82335
-              timestamp: '2022-05-07T14:34:04Z'
+              md5-hash: a1dd94c82bd17b31d478964fdcf87372
+              timestamp: '2022-05-07T19:11:29Z'
 
             - file: all-14d.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=14d&query=count&url=https://github.com/andry81-stats/pyxvcs--gh-stats/raw/master/traffic/views/latest.json?raw=True
-              md5-hash: f2b9b085b2b123a17d878c4da1e35d88
-              timestamp: '2022-05-07T14:34:05Z'
+              md5-hash: 61ee1d684a51bd97a3f5c92e92b12a1c
+              timestamp: '2022-05-07T19:11:30Z'
 
             - file: unq.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=views|unq&query=uniques&url=https://github.com/andry81-stats/pyxvcs--gh-stats/raw/master/traffic/views/latest-accum.json?raw=True&logo=github
-              md5-hash: 189cae7acf294fc5f8899f65437f06d1
-              timestamp: '2022-05-07T14:34:06Z'
+              md5-hash: 9cc9464b36d5310e354d6c190d41a49f
+              timestamp: '2022-05-07T19:11:30Z'
 
             - file: unq-14d.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=14d&query=uniques&url=https://github.com/andry81-stats/pyxvcs--gh-stats/raw/master/traffic/views/latest.json?raw=True
-              md5-hash: aaf7a462ccb0e902121d24ded5d5d71d
-              timestamp: '2022-05-07T14:34:06Z'
+              md5-hash: 61ee1d684a51bd97a3f5c92e92b12a1c
+              timestamp: '2022-05-07T19:11:31Z'
 
         - dir: repo/andry81/pyxvcs/badges/traffic/clones
 
@@ -39,23 +39,23 @@ content-index:
 
             - file: all.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=clones|all&query=count&url=https://github.com/andry81-stats/pyxvcs--gh-stats/raw/master/traffic/clones/latest-accum.json?raw=True&logo=github
-              md5-hash: e2fee9d42de272e4935fd6651095b9e8
-              timestamp: '2022-05-07T14:34:07Z'
+              md5-hash: b77320f74c354e77203d29804d332591
+              timestamp: '2022-05-07T19:11:32Z'
 
             - file: all-14d.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=14d&query=count&url=https://github.com/andry81-stats/pyxvcs--gh-stats/raw/master/traffic/clones/latest.json?raw=True
-              md5-hash: c959befa6906881ff4a112be567fc54c
-              timestamp: '2022-05-07T14:34:08Z'
+              md5-hash: 0f486b7e7528298ce664da0d2e158c9c
+              timestamp: '2022-05-07T19:11:33Z'
 
             - file: unq.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=clones|unq&query=uniques&url=https://github.com/andry81-stats/pyxvcs--gh-stats/raw/master/traffic/clones/latest-accum.json?raw=True&logo=github
-              md5-hash: 7721e82e48d4e401966ba332ca9f5c5b
-              timestamp: '2022-05-07T14:34:09Z'
+              md5-hash: 1365340bcdb03f6cd8c593903efdf9bf
+              timestamp: '2022-05-07T19:11:34Z'
 
             - file: unq-14d.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=14d&query=uniques&url=https://github.com/andry81-stats/pyxvcs--gh-stats/raw/master/traffic/clones/latest.json?raw=True
               md5-hash: 09466ecd44b8512b3bafdb8453be0e1a
-              timestamp: '2022-05-07T14:34:09Z'
+              timestamp: '2022-05-07T19:11:34Z'
 
         - dir: repo/andry81/pyxvcs/badges/metrics
 
