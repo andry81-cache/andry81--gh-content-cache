@@ -3,7 +3,7 @@
 
 content-index:
 
-  timestamp: "2022-07-22T13:22:48Z"
+  timestamp: "2022-08-08T04:51:24Z"
 
   entries:
 
@@ -15,23 +15,23 @@ content-index:
 
             - file: all.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=views|all&query=count&url=https://github.com/andry81-stats/andry81--gh-stats/raw/master/traffic/views/latest-accum.json?raw=True&logo=github
-              md5-hash: 42f0ced1c9bd224bb67a30c683a32202
-              timestamp: "2022-07-22T13:22:43Z"
+              md5-hash: 4cf66a8e41fa4e94f9f619de9a188096
+              timestamp: "2022-08-08T04:50:55Z"
 
             - file: all-14d.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=14d&query=count&url=https://github.com/andry81-stats/andry81--gh-stats/raw/master/traffic/views/latest.json?raw=True
-              md5-hash: 13fb9a549f84b68c5b326ef37430118c
-              timestamp: "2022-07-22T13:22:44Z"
+              md5-hash: e657b529dc1ed70352a8d03a6fa088e9
+              timestamp: "2022-08-08T04:50:56Z"
 
             - file: unq.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=views|unq&query=uniques&url=https://github.com/andry81-stats/andry81--gh-stats/raw/master/traffic/views/latest-accum.json?raw=True&logo=github
-              md5-hash: c07c15870825ade739135a7c1243a2c2
-              timestamp: "2022-07-22T13:22:45Z"
+              md5-hash: 8157e5432a62501fc5c5bb2f7b54b4c8
+              timestamp: "2022-08-08T04:50:57Z"
 
             - file: unq-14d.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=14d&query=uniques&url=https://github.com/andry81-stats/andry81--gh-stats/raw/master/traffic/views/latest.json?raw=True
-              md5-hash: f2b9b085b2b123a17d878c4da1e35d88
-              timestamp: "2022-07-22T13:22:45Z"
+              md5-hash: aaf7a462ccb0e902121d24ded5d5d71d
+              timestamp: "2022-08-08T04:50:58Z"
 
         - dir: repo/andry81/andry81/badges/traffic/clones
 
@@ -39,23 +39,23 @@ content-index:
 
             - file: all.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=clones|all&query=count&url=https://github.com/andry81-stats/andry81--gh-stats/raw/master/traffic/clones/latest-accum.json?raw=True&logo=github
-              md5-hash: 7b28039bcac5bf10de428720a4a2f396
-              timestamp: "2022-07-22T13:22:46Z"
+              md5-hash: 9c470f557120562557f05eeeb98e8e13
+              timestamp: "2022-08-08T04:50:59Z"
 
             - file: all-14d.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=14d&query=count&url=https://github.com/andry81-stats/andry81--gh-stats/raw/master/traffic/clones/latest.json?raw=True
-              md5-hash: f2b9b085b2b123a17d878c4da1e35d88
-              timestamp: "2022-07-22T13:22:47Z"
+              md5-hash: aaf7a462ccb0e902121d24ded5d5d71d
+              timestamp: "2022-08-08T04:51:00Z"
 
             - file: unq.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=clones|unq&query=uniques&url=https://github.com/andry81-stats/andry81--gh-stats/raw/master/traffic/clones/latest-accum.json?raw=True&logo=github
-              md5-hash: 672c006cabfb5c440ae0f786cc17ef77
-              timestamp: "2022-07-22T13:22:48Z"
+              md5-hash: bf1f22189a85056ef1956349f0df30e5
+              timestamp: "2022-08-08T04:51:01Z"
 
             - file: unq-14d.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=14d&query=uniques&url=https://github.com/andry81-stats/andry81--gh-stats/raw/master/traffic/clones/latest.json?raw=True
-              md5-hash: f2b9b085b2b123a17d878c4da1e35d88
-              timestamp: "2022-07-22T13:22:48Z"
+              md5-hash: aaf7a462ccb0e902121d24ded5d5d71d
+              timestamp: "2022-08-08T04:51:02Z"
 
         - dir: repo/andry81/andry81/stickers/readme-stats
 
@@ -63,27 +63,30 @@ content-index:
 
             - file: streak-stats-herokuapp.svg
               queried-url: https://github-readme-streak-stats.herokuapp.com/?user=andry81&theme=onedark&hide_border=true
-              md5-hash: 143ec68605b7d5eb4a1d77207b66feb3
-              timestamp: "2022-07-22T06:32:42Z"
+              md5-hash: c59666843df45674c9713a5abc833b9a
+              timestamp: "2022-08-08T04:51:04Z"
 
             - file: profile-summary-card-vercel.svg
+              queried-url: https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andry81&theme=monokai
+              md5-hash: 599dd23385abc38f6e016a320a168f5a
+              timestamp: "2022-08-08T04:51:07Z"
 
             - file: metrics-lecoq.svg
-              queried-url: https://metrics.lecoq.io/andry81?template=classic&languages=1&lines=1&languages.limit=12&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.details=bytes-size%2C%20percentage&languages.indepth=true&languages.analysis.timeout=30&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Europe%2FMoscow
-              md5-hash: 584f10d46a945ca9d286d7eca10f8c0a
-              timestamp: "2022-07-22T06:32:54Z"
+              queried-url: https://metrics.lecoq.io/andry81?template=classic&config.timezone=Europe%2FMoscow
+              md5-hash: d816651f3a474db3549e2c70a6bf42be
+              timestamp: "2022-08-08T04:51:18Z"
 
             - file: readme-stats-vercel.svg
               queried-url: https://github-readme-stats.vercel.app/api?username=andry81&theme=dark&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&line_height=21&hide_title=true
-              md5-hash: 87fd1fcb9b85d43fc8e210541e38d2ae
-              timestamp: "2022-07-22T06:32:56Z"
+              md5-hash: 53e7ada93cab546237d6a0e71a8bab78
+              timestamp: "2022-08-08T04:51:21Z"
 
             - file: readme-stats-vercel--top-langs.svg
               queried-url: https://github-readme-stats.vercel.app/api/top-langs/?username=andry81&layout=compact&theme=dark&langs_count=10&count_private=true&include_all_commits=true&hide_border=true&line_height=21&hide_title=true
               md5-hash: c944c448a5288230d002ecccf9c904ef
-              timestamp: "2022-07-22T06:32:58Z"
+              timestamp: "2022-08-08T04:51:23Z"
 
             - file: activity-graph-herokuapp.svg
               queried-url: https://activity-graph.herokuapp.com/graph?username=andry81&theme=one-dark&hide_border=true
-              md5-hash: 3b5fc9a137ea415291fcee64d49ac4c5
-              timestamp: "2022-07-22T06:32:59Z"
+              md5-hash: 7462af52547d2f5e36517e7af72210c8
+              timestamp: "2022-08-08T04:51:24Z"
