@@ -3,7 +3,7 @@
 
 content-index:
 
-  timestamp: "2022-08-16T15:17:24Z"
+  timestamp: "2022-08-16T21:14:14Z"
 
   entries:
 
@@ -16,22 +16,22 @@ content-index:
             - file: all.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=views|all&query=count&url=https://github.com/andry81-stats/bittools--gh-stats/raw/master/traffic/views/latest-accum.json?raw=True&logo=github
               md5-hash: 0961dda951aaf4998e0612af720d4e8e
-              timestamp: "2022-08-16T15:17:11Z"
+              timestamp: "2022-08-16T21:14:06Z"
 
             - file: all-14d.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=14d&query=count&url=https://github.com/andry81-stats/bittools--gh-stats/raw/master/traffic/views/latest.json?raw=True
               md5-hash: 90217b5e833d3a3fe26d793470f6314d
-              timestamp: "2022-08-16T15:17:12Z"
+              timestamp: "2022-08-16T21:14:07Z"
 
             - file: unq.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=views|unq&query=uniques&url=https://github.com/andry81-stats/bittools--gh-stats/raw/master/traffic/views/latest-accum.json?raw=True&logo=github
               md5-hash: d0c666507f024718a30fcea090f3f6ed
-              timestamp: "2022-08-16T15:17:12Z"
+              timestamp: "2022-08-16T21:14:07Z"
 
             - file: unq-14d.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=14d&query=uniques&url=https://github.com/andry81-stats/bittools--gh-stats/raw/master/traffic/views/latest.json?raw=True
               md5-hash: f2b9b085b2b123a17d878c4da1e35d88
-              timestamp: "2022-08-16T15:17:13Z"
+              timestamp: "2022-08-16T21:14:08Z"
 
         - dir: repo/andry81/bittools/badges/traffic/clones
 
@@ -39,23 +39,23 @@ content-index:
 
             - file: all.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=clones|all&query=count&url=https://github.com/andry81-stats/bittools--gh-stats/raw/master/traffic/clones/latest-accum.json?raw=True&logo=github
-              md5-hash: 6ff9f407d027f52ee9d3fafe878015e0
-              timestamp: "2022-08-16T15:17:14Z"
+              md5-hash: 3ce8a7fd6d151487a8e4a77aeeffeea4
+              timestamp: "2022-08-16T21:14:09Z"
 
             - file: all-14d.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=14d&query=count&url=https://github.com/andry81-stats/bittools--gh-stats/raw/master/traffic/clones/latest.json?raw=True
-              md5-hash: 141540ef7c4638e8a691b264843f017e
-              timestamp: "2022-08-16T15:17:15Z"
+              md5-hash: b8f55f8821f18f42b6311b176e4683f7
+              timestamp: "2022-08-16T21:14:10Z"
 
             - file: unq.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=clones|unq&query=uniques&url=https://github.com/andry81-stats/bittools--gh-stats/raw/master/traffic/clones/latest-accum.json?raw=True&logo=github
               md5-hash: 8ac444bc5532fc0f1716480f6c274d0b
-              timestamp: "2022-08-16T15:17:16Z"
+              timestamp: "2022-08-16T21:14:11Z"
 
             - file: unq-14d.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=14d&query=uniques&url=https://github.com/andry81-stats/bittools--gh-stats/raw/master/traffic/clones/latest.json?raw=True
               md5-hash: 12088cb1926f07bdd423119c89331a59
-              timestamp: "2022-08-16T15:17:16Z"
+              timestamp: "2022-08-16T21:14:11Z"
 
         - dir: repo/andry81/bittools/badges/metrics
 
@@ -113,4 +113,4 @@ content-index:
             - file: tokei-lines-of-code.svg
               queried-url: https://tokei.rs/b1/github/andry81/bittools?category=code
               md5-hash: 20824a6661ea996da8dc2cd249d6f3d2
-              timestamp: "2022-08-16T04:01:28Z"
+              timestamp: "2022-08-16T21:14:14Z"
