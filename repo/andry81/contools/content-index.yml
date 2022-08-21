@@ -3,7 +3,7 @@
 
 content-index:
 
-  timestamp: "2022-08-21T02:25:54Z"
+  timestamp: "2022-08-21T11:44:28Z"
 
   entries:
 
@@ -16,22 +16,26 @@ content-index:
             - file: all.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=views|all&query=count&url=https://github.com/andry81-stats/contools--gh-stats/raw/master/traffic/views/latest-accum.json?raw=True&logo=github
               md5-hash: 7080db11c2b855baf5f61ed0bfb309d5
-              timestamp: "2022-08-21T02:25:48Z"
+              timestamp: "2022-08-21T11:44:14Z"
+              size: 2341
 
             - file: all-14d.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=14d&query=count&url=https://github.com/andry81-stats/contools--gh-stats/raw/master/traffic/views/latest.json?raw=True
               md5-hash: 12088cb1926f07bdd423119c89331a59
-              timestamp: "2022-08-21T02:25:49Z"
+              timestamp: "2022-08-21T11:44:15Z"
+              size: 1101
 
             - file: unq.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=views|unq&query=uniques&url=https://github.com/andry81-stats/contools--gh-stats/raw/master/traffic/views/latest-accum.json?raw=True&logo=github
               md5-hash: b6e47ad7251887fd4d5668bd3f2f2e07
-              timestamp: "2022-08-21T02:25:50Z"
+              timestamp: "2022-08-21T11:44:16Z"
+              size: 2341
 
             - file: unq-14d.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=14d&query=uniques&url=https://github.com/andry81-stats/contools--gh-stats/raw/master/traffic/views/latest.json?raw=True
               md5-hash: f2b9b085b2b123a17d878c4da1e35d88
-              timestamp: "2022-08-21T02:25:50Z"
+              timestamp: "2022-08-21T11:44:16Z"
+              size: 1101
 
         - dir: repo/andry81/contools/badges/traffic/clones
 
@@ -40,22 +44,26 @@ content-index:
             - file: all.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=clones|all&query=count&url=https://github.com/andry81-stats/contools--gh-stats/raw/master/traffic/clones/latest-accum.json?raw=True&logo=github
               md5-hash: aa659cc76cedcc63e49c024f1ff56fe1
-              timestamp: "2022-08-21T02:25:51Z"
+              timestamp: "2022-08-21T11:44:18Z"
+              size: 2349
 
             - file: all-14d.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=14d&query=count&url=https://github.com/andry81-stats/contools--gh-stats/raw/master/traffic/clones/latest.json?raw=True
               md5-hash: 90217b5e833d3a3fe26d793470f6314d
-              timestamp: "2022-08-21T02:25:52Z"
+              timestamp: "2022-08-21T11:44:18Z"
+              size: 1107
 
             - file: unq.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=clones|unq&query=uniques&url=https://github.com/andry81-stats/contools--gh-stats/raw/master/traffic/clones/latest-accum.json?raw=True&logo=github
-              md5-hash: 33bb93b7489f0b7248f2200388c3ab2a
-              timestamp: "2022-08-21T02:25:53Z"
+              md5-hash: 0788691727fb1ea672dc8e9951e5144c
+              timestamp: "2022-08-21T11:44:19Z"
+              size: 2347
 
             - file: unq-14d.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=14d&query=uniques&url=https://github.com/andry81-stats/contools--gh-stats/raw/master/traffic/clones/latest.json?raw=True
               md5-hash: 5f60951fe132c3074d9c33148d22477a
-              timestamp: "2022-08-21T02:25:54Z"
+              timestamp: "2022-08-21T11:44:20Z"
+              size: 1107
 
         - dir: repo/andry81/contools/badges/metrics
 
@@ -64,37 +72,44 @@ content-index:
             - file: codefactor-grade.svg
               queried-url: https://img.shields.io/codefactor/grade/github/andry81/contools?label=quality&logo=codefactor
               md5-hash: 47758de67a05f36b8fc5c4a3fd2da142
-              timestamp: "2022-08-20T18:28:07Z"
+              timestamp: "2022-08-21T11:44:21Z"
+              size: 2101
 
             - file: codacy-grade.svg
               queried-url: https://img.shields.io/codacy/grade/09e6de3a65614dd1b85c631ff108c8e5?label=quality&logo=codacy
               md5-hash: 7e4731179a95d9b217e6404b25df3c6c
-              timestamp: "2022-08-20T18:28:08Z"
+              timestamp: "2022-08-21T11:44:22Z"
+              size: 2527
 
             - file: lgtm-grade-python.svg
               queried-url: https://img.shields.io/lgtm/grade/python/github/andry81/contools.svg?label=quality:%20python&logo=lgtm
               md5-hash: 61ce6f0ebbd6e99bab4b94af29dfa76f
-              timestamp: "2022-08-20T18:28:09Z"
+              timestamp: "2022-08-21T11:44:23Z"
+              size: 4138
 
             - file: lgtm-alerts.svg
               queried-url: https://img.shields.io/lgtm/alerts/github/andry81/contools?label=alerts&logo=lgtm
               md5-hash: f123be147705b6cfe407703aa7baf8ac
-              timestamp: "2022-08-20T18:28:10Z"
+              timestamp: "2022-08-21T11:44:23Z"
+              size: 4095
 
             - file: codeclimate-maintainability.svg
               queried-url: https://api.codeclimate.com/v1/badges/d7d0415db06ae2e19681/maintainability?logo=codeclimate
               md5-hash: 4e87df4c35c759a915ba2530e5ab88f2
-              timestamp: "2022-08-20T18:28:11Z"
+              timestamp: "2022-08-21T11:44:24Z"
+              size: 15145
 
             - file: codeclimate-issues.svg
               queried-url: https://img.shields.io/codeclimate/issues/andry81/contools?logo=codeclimate
               md5-hash: 574265b1f87cdca29d1eb640f55de2e2
-              timestamp: "2022-08-20T18:28:12Z"
+              timestamp: "2022-08-21T11:44:25Z"
+              size: 1573
 
             - file: codeclimate-tech-debt.svg
               queried-url: https://img.shields.io/codeclimate/tech-debt/andry81/contools?logo=codeclimate
               md5-hash: 777b4484bfb90ed7f0e661c07e3bf584
-              timestamp: "2022-08-20T18:28:12Z"
+              timestamp: "2022-08-21T11:44:26Z"
+              size: 1616
 
         - dir: repo/andry81/contools/badges/metrics
 
@@ -103,14 +118,17 @@ content-index:
             - file: shields-repo-size.svg
               queried-url: https://img.shields.io/github/repo-size/andry81/contools?logo=github
               md5-hash: 2ea8408cb3f3d51f8d4c103b5264633c
-              timestamp: "2022-08-20T18:28:13Z"
+              timestamp: "2022-08-21T11:44:26Z"
+              size: 2362
 
             - file: shields-code-size.svg
               queried-url: https://img.shields.io/github/languages/code-size/andry81/contools?logo=github
               md5-hash: 643969c741e7340474f902a150a04440
-              timestamp: "2022-08-20T18:28:14Z"
+              timestamp: "2022-08-21T11:44:27Z"
+              size: 2362
 
             - file: tokei-lines-of-code.svg
               queried-url: https://tokei.rs/b1/github/andry81/contools?category=code
               md5-hash: d7e3d2a447dd66c3ccba8bea8a0bab4c
-              timestamp: "2022-08-20T18:28:21Z"
+              timestamp: "2022-08-21T11:44:28Z"
+              size: 1135
