@@ -115,7 +115,7 @@
           transform="translate(0, 25)"
         >
           
-    <g data-testid="rank-circle" 
+    <g data-testid="rank-circle"
           transform="translate(400, 35.5)">
         <circle class="rank-circle-rim" cx="-10" cy="8" r="40" />
         <circle class="rank-circle" cx="-10" cy="8" r="40" />
@@ -140,10 +140,10 @@
     </svg>
   
       <text class="stat bold" x="25" y="12.5">Total Stars Earned:</text>
-      <text 
-        class="stat" 
-        x="175" 
-        y="12.5" 
+      <text
+        class="stat"
+        x="175"
+        y="12.5"
         data-testid="stars"
       >13</text>
     </g>
@@ -155,10 +155,10 @@
     </svg>
   
       <text class="stat bold" x="25" y="12.5">Total Commits:</text>
-      <text 
-        class="stat" 
-        x="175" 
-        y="12.5" 
+      <text
+        class="stat"
+        x="175"
+        y="12.5"
         data-testid="commits"
       >3.7k</text>
     </g>
@@ -170,10 +170,10 @@
     </svg>
   
       <text class="stat bold" x="25" y="12.5">Total PRs:</text>
-      <text 
-        class="stat" 
-        x="175" 
-        y="12.5" 
+      <text
+        class="stat"
+        x="175"
+        y="12.5"
         data-testid="prs"
       >0</text>
     </g>
@@ -185,10 +185,10 @@
     </svg>
   
       <text class="stat bold" x="25" y="12.5">Total Issues:</text>
-      <text 
-        class="stat" 
-        x="175" 
-        y="12.5" 
+      <text
+        class="stat"
+        x="175"
+        y="12.5"
         data-testid="issues"
       >128</text>
     </g>
@@ -200,15 +200,15 @@
     </svg>
   
       <text class="stat bold" x="25" y="12.5">Contributed to:</text>
-      <text 
-        class="stat" 
-        x="175" 
-        y="12.5" 
+      <text
+        class="stat"
+        x="175"
+        y="12.5"
         data-testid="contribs"
       >79</text>
     </g>
   </g>
-    </svg> 
+    </svg>
   
         </g>
       </svg>
