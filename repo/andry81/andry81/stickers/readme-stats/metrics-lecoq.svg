@@ -1164,6 +1164,17 @@
   .sponsors .avatar {
     margin: 2px;
   }
+  .sponsorships.goal {
+    display: flex;
+    align-items: center;
+  }
+  .sponsorships.goal .bold {
+    font-weight: bold;
+  }
+  .sponsorships.goal img {
+    width: 38px;
+    margin-right: 8px;
+  }
 
 /* Stackoverflow */
   .stackoverflow {
@@ -1563,6 +1574,10 @@
     --color-calendar-halloween-graph-day-L2-bg: #ffc501;
     --color-calendar-halloween-graph-day-L3-bg: #fe9600;
     --color-calendar-halloween-graph-day-L4-bg: #03001c;
+    --color-calendar-winter-graph-day-L1-bg: #0a3069;
+    --color-calendar-winter-graph-day-L2-bg: #0969da;
+    --color-calendar-winter-graph-day-L3-bg: #54aeff;
+    --color-calendar-winter-graph-day-L4-bg: #b6e3ff;
     --color-calendar-graph-day-L4-border: rgba(27,31,35,0.06);
     --color-calendar-graph-day-L3-border: rgba(27,31,35,0.06);
     --color-calendar-graph-day-L2-border: rgba(27,31,35,0.06);
@@ -1866,6 +1881,9 @@
 
       
         
+
+      
+        
       
         
       
@@ -1877,7 +1895,7 @@
           
             <span>These metrics do not include all private contributions</span>
           
-          <span>Last updated 18 Jan 2023, 09:21:56 (timezone Europe/Moscow) with lowlighter/metrics@3.31.0</span>
+          <span>Last updated 18 Jan 2023, 18:18:47 (timezone Europe/Moscow) with lowlighter/metrics@3.32.0</span>
         </footer>
       
 
