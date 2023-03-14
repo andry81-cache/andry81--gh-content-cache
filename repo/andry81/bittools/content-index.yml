@@ -3,7 +3,7 @@
 
 content-index:
 
-  timestamp: "2023-03-14T12:35:17Z"
+  timestamp: "2023-03-14T21:12:25Z"
 
   entries:
 
@@ -16,25 +16,25 @@ content-index:
             - file: all.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=views|all&query=count&url=https://github.com/andry81-stats/bittools--gh-stats/raw/master/traffic/views/latest-accum.json?raw=True&logo=github
               md5-hash: 8de8d8bd91e8ffd33b2ac1b911a4c2a5
-              timestamp: "2023-03-14T12:35:03Z"
+              timestamp: "2023-03-14T21:12:11Z"
               size: 2341
 
             - file: all-14d.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=14d&query=count&url=https://github.com/andry81-stats/bittools--gh-stats/raw/master/traffic/views/latest.json?raw=True
               md5-hash: f2b9b085b2b123a17d878c4da1e35d88
-              timestamp: "2023-03-14T12:35:04Z"
+              timestamp: "2023-03-14T21:12:12Z"
               size: 1101
 
             - file: unq.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=views|unq&query=uniques&url=https://github.com/andry81-stats/bittools--gh-stats/raw/master/traffic/views/latest-accum.json?raw=True&logo=github
               md5-hash: 5e81ae80fd5011a25308f8c0700586e4
-              timestamp: "2023-03-14T12:35:04Z"
+              timestamp: "2023-03-14T21:12:13Z"
               size: 2337
 
             - file: unq-14d.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=14d&query=uniques&url=https://github.com/andry81-stats/bittools--gh-stats/raw/master/traffic/views/latest.json?raw=True
               md5-hash: f2b9b085b2b123a17d878c4da1e35d88
-              timestamp: "2023-03-14T12:35:05Z"
+              timestamp: "2023-03-14T21:12:13Z"
               size: 1101
 
         - dir: repo/andry81/bittools/badges/traffic/clones
@@ -44,25 +44,25 @@ content-index:
             - file: all.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=clones|all&query=count&url=https://github.com/andry81-stats/bittools--gh-stats/raw/master/traffic/clones/latest-accum.json?raw=True&logo=github
               md5-hash: a72b82d0afe9c8ed9f40e89f3990f736
-              timestamp: "2023-03-14T12:35:06Z"
+              timestamp: "2023-03-14T21:12:14Z"
               size: 2349
 
             - file: all-14d.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=14d&query=count&url=https://github.com/andry81-stats/bittools--gh-stats/raw/master/traffic/clones/latest.json?raw=True
               md5-hash: 1eca5b7f4a713938ffbd27e84d04fac0
-              timestamp: "2023-03-14T12:35:07Z"
+              timestamp: "2023-03-14T21:12:15Z"
               size: 1107
 
             - file: unq.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=clones|unq&query=uniques&url=https://github.com/andry81-stats/bittools--gh-stats/raw/master/traffic/clones/latest-accum.json?raw=True&logo=github
               md5-hash: d2142d386d94e95d2e1006ee3a6c95e3
-              timestamp: "2023-03-14T12:35:08Z"
+              timestamp: "2023-03-14T21:12:16Z"
               size: 2347
 
             - file: unq-14d.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=14d&query=uniques&url=https://github.com/andry81-stats/bittools--gh-stats/raw/master/traffic/clones/latest.json?raw=True
               md5-hash: 12088cb1926f07bdd423119c89331a59
-              timestamp: "2023-03-14T12:35:09Z"
+              timestamp: "2023-03-14T21:12:16Z"
               size: 1101
 
         - dir: repo/andry81/bittools/badges/metrics
@@ -72,43 +72,43 @@ content-index:
             - file: codefactor-grade.svg
               queried-url: https://img.shields.io/codefactor/grade/github/andry81/bittools?label=quality&logo=codefactor
               md5-hash: 21160d77dc5b0040310c5e7e357c9cda
-              timestamp: "2023-03-14T12:35:10Z"
+              timestamp: "2023-03-14T21:12:18Z"
               size: 2095
 
             - file: codacy-grade.svg
               queried-url: https://img.shields.io/codacy/grade/b3ddc157edac46f9b710ae3b94f5ea36?label=quality&logo=codacy
               md5-hash: 0fb433f65d1527713e8c7ed00200d4d8
-              timestamp: "2023-03-14T12:35:11Z"
+              timestamp: "2023-03-14T21:12:19Z"
               size: 2617
 
             - file: lgtm-grade-python.svg
               queried-url: https://img.shields.io/lgtm/grade/python/github/andry81/bittools.svg?label=quality:%20python&logo=lgtm
               md5-hash: a1927daf522fff125ba7fd649d643714
-              timestamp: "2023-03-14T12:35:12Z"
+              timestamp: "2023-03-14T21:12:19Z"
               size: 4215
 
             - file: lgtm-alerts.svg
               queried-url: https://img.shields.io/lgtm/alerts/github/andry81/bittools?label=alerts&logo=lgtm
               md5-hash: d782369f705c28f9ae2443b81fda18f4
-              timestamp: "2023-03-14T12:35:12Z"
+              timestamp: "2023-03-14T21:12:20Z"
               size: 4177
 
             - file: codeclimate-maintainability.svg
               queried-url: https://api.codeclimate.com/v1/badges/fcc4dde6b41737f524d3/maintainability?logo=codeclimate
               md5-hash: 19363c0940d6b3a8f6dc79203edb0649
-              timestamp: "2023-03-14T12:35:13Z"
+              timestamp: "2023-03-14T21:12:21Z"
               size: 15585
 
             - file: codeclimate-issues.svg
               queried-url: https://img.shields.io/codeclimate/issues/andry81/bittools?logo=codeclimate
               md5-hash: 0eb7a5673e8558aeed62297e34977007
-              timestamp: "2023-03-14T12:35:14Z"
+              timestamp: "2023-03-14T21:12:21Z"
               size: 1653
 
             - file: codeclimate-tech-debt.svg
               queried-url: https://img.shields.io/codeclimate/tech-debt/andry81/bittools?logo=codeclimate
               md5-hash: 0eb7a5673e8558aeed62297e34977007
-              timestamp: "2023-03-14T12:35:15Z"
+              timestamp: "2023-03-14T21:12:22Z"
               size: 1653
 
         - dir: repo/andry81/bittools/badges/metrics
@@ -118,17 +118,17 @@ content-index:
             - file: shields-repo-size.svg
               queried-url: https://img.shields.io/github/repo-size/andry81/bittools?logo=github
               md5-hash: 6e025a43333663b33983da605a0a98b9
-              timestamp: "2023-03-14T12:35:15Z"
+              timestamp: "2023-03-14T21:12:23Z"
               size: 2356
 
             - file: shields-code-size.svg
               queried-url: https://img.shields.io/github/languages/code-size/andry81/bittools?logo=github
               md5-hash: c094aca896c641e727e3a43da525df2b
-              timestamp: "2023-03-14T12:35:16Z"
+              timestamp: "2023-03-14T21:12:24Z"
               size: 2358
 
             - file: tokei-lines-of-code.svg
               queried-url: https://tokei.rs/b1/github/andry81/bittools?category=code
               md5-hash: 8f7e93d382d7311af020ff15680fc2b9
-              timestamp: "2023-03-14T12:35:17Z"
+              timestamp: "2023-03-14T21:12:25Z"
               size: 1133
