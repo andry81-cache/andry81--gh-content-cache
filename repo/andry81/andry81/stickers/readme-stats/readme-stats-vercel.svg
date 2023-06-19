@@ -8,7 +8,7 @@
         role="img"
         aria-labelledby="descId"
       >
-        <title id="titleId">andry81's GitHub Stats, Rank: B</title>
+        <title id="titleId">andry81's GitHub Stats, Rank: C+</title>
         <desc id="descId">Total Stars Earned: 21, Total Commits  : 21, Total PRs: 0, Total Issues: 181, Contributed to (last year): 99</desc>
         <style>
           .header {
@@ -35,6 +35,9 @@
     .rank-text {
       font: 800 24px 'Segoe UI', Ubuntu, Sans-Serif; fill: #9f9f9f;
       animation: scaleInAnimation 0.3s ease-in-out forwards;
+    }
+    .rank-progress-text {
+      font-size: 16px;
     }
     
     .not_bold { font-weight: 400 }
@@ -67,7 +70,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 147.4269671579464;
+        stroke-dashoffset: 189.13671968006847;
       }
     }
   
@@ -123,7 +126,7 @@
         <g class="rank-text">
           
         <text x="-5" y="3" alignment-baseline="central" dominant-baseline="central" text-anchor="middle" data-testid="level-rank-icon">
-          B
+          C+
         </text>
       
         </g>
@@ -157,7 +160,7 @@
         x="219.01"
         y="12.5"
         data-testid="commits"
-      >3.5k</text>
+      >0</text>
     </g>
   </g><g transform="translate(0, 42)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
