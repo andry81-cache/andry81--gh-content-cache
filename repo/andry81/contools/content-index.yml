@@ -3,7 +3,7 @@
 
 content-index:
 
-  timestamp: "2023-08-04T12:22:55Z"
+  timestamp: "2023-08-04T18:14:16Z"
 
   entries:
 
@@ -15,26 +15,26 @@ content-index:
 
             - file: all.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=views|all&query=count&url=https://github.com/andry81-stats/contools--gh-stats/raw/master/traffic/views/latest-accum.json?raw=True&logo=github
-              md5-hash: a3554382144db3fcac8938d44cc62717
-              timestamp: "2023-08-04T12:22:38Z"
+              md5-hash: 39a8adba7bd2f2af71691c52563e158b
+              timestamp: "2023-08-04T18:14:10Z"
               size: 2345
 
             - file: all-14d.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=14d&query=count&url=https://github.com/andry81-stats/contools--gh-stats/raw/master/traffic/views/latest.json?raw=True
-              md5-hash: 905c99fd5b2887f0b25e9f60161ff0c8
-              timestamp: "2023-08-04T12:22:39Z"
+              md5-hash: 1bd5df9f8d4978d99a247ebc030970de
+              timestamp: "2023-08-04T18:14:11Z"
               size: 1107
 
             - file: unq.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=views|unq&query=uniques&url=https://github.com/andry81-stats/contools--gh-stats/raw/master/traffic/views/latest-accum.json?raw=True&logo=github
-              md5-hash: e91590fa7adbcb069d37b5b580afb757
-              timestamp: "2023-08-04T12:22:40Z"
+              md5-hash: ae6843e26224e6572100fb8e9d3a9ea3
+              timestamp: "2023-08-04T18:14:12Z"
               size: 2341
 
             - file: unq-14d.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=14d&query=uniques&url=https://github.com/andry81-stats/contools--gh-stats/raw/master/traffic/views/latest.json?raw=True
-              md5-hash: ef45b6b8fc2a6132a5110ac001a7c4b2
-              timestamp: "2023-08-04T12:22:41Z"
+              md5-hash: bd7fdf3491e00963704f69878a722609
+              timestamp: "2023-08-04T18:14:13Z"
               size: 1107
 
         - dir: repo/andry81/contools/badges/traffic/clones
@@ -43,26 +43,26 @@ content-index:
 
             - file: all.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=clones|all&query=count&url=https://github.com/andry81-stats/contools--gh-stats/raw/master/traffic/clones/latest-accum.json?raw=True&logo=github
-              md5-hash: 1100b47dcad188e24d2ef47cea01a209
-              timestamp: "2023-08-04T12:22:42Z"
+              md5-hash: b27addffa8ece5a32297072b213241bf
+              timestamp: "2023-08-04T18:14:14Z"
               size: 2349
 
             - file: all-14d.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=14d&query=count&url=https://github.com/andry81-stats/contools--gh-stats/raw/master/traffic/clones/latest.json?raw=True
-              md5-hash: b6d14355a6ebd86f409e57fb7aa37adc
-              timestamp: "2023-08-04T12:22:43Z"
+              md5-hash: 31d44591ca721912ce04fc2755c1b0b5
+              timestamp: "2023-08-04T18:14:15Z"
               size: 1107
 
             - file: unq.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=clones|unq&query=uniques&url=https://github.com/andry81-stats/contools--gh-stats/raw/master/traffic/clones/latest-accum.json?raw=True&logo=github
-              md5-hash: 358258f2ef90043dfc9e38e9ac149314
-              timestamp: "2023-08-04T12:22:44Z"
+              md5-hash: 2bfdd789edc8734225a837e628b62bda
+              timestamp: "2023-08-04T18:14:15Z"
               size: 2351
 
             - file: unq-14d.svg
               queried-url: https://img.shields.io/badge/dynamic/json?color=success&label=14d&query=uniques&url=https://github.com/andry81-stats/contools--gh-stats/raw/master/traffic/clones/latest.json?raw=True
               md5-hash: ef45b6b8fc2a6132a5110ac001a7c4b2
-              timestamp: "2023-08-04T12:22:45Z"
+              timestamp: "2023-08-04T18:14:16Z"
               size: 1107
 
         - dir: repo/andry81/contools/badges/metrics
