@@ -93,24 +93,6 @@ content-index:
               timestamp: '2023-05-22T06:08:50Z'
               size: 4177
 
-            - file: codeclimate-maintainability.svg
-              queried-url: https://api.codeclimate.com/v1/badges/0fe59660ac1b424e7b9e/maintainability?logo=codeclimate
-              md5-hash: 19363c0940d6b3a8f6dc79203edb0649
-              timestamp: '2023-05-22T06:08:51Z'
-              size: 15585
-
-            - file: codeclimate-issues.svg
-              queried-url: https://img.shields.io/codeclimate/issues/andry81/tacklebar?logo=codeclimate
-              md5-hash: 6fa1a87609d70ffbfeedb696eb77515f
-              timestamp: '2023-05-22T06:08:51Z'
-              size: 1665
-
-            - file: codeclimate-tech-debt.svg
-              queried-url: https://img.shields.io/codeclimate/tech-debt/andry81/tacklebar?logo=codeclimate
-              md5-hash: 6fa1a87609d70ffbfeedb696eb77515f
-              timestamp: '2023-05-22T06:08:52Z'
-              size: 1665
-
         - dir: repo/andry81/tacklebar/badges/metrics
 
           files:
